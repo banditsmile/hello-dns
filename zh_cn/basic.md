@@ -6,11 +6,9 @@
 Note: this page is part of the
 '[hello-dns](https://powerdns.org/hello-dns/)' documentation effort.
 
-In this section we will initially ignore optional extensions that were added
-to DNS later, specifically EDNS and DNSSEC.
+这部分文章我们将会先忽略DNS的一些扩展功能，尤其是EDNS和DNSSEC.
 
-This file corresponds roughly to the fundamental parts of RFCs 1034, 1035,
-2181, 2308, 3596, 4343, 5452, 6604, 7766 and 8020.
+这篇文章大致对应RFCs 1034,1035,2181,2308,3596,4343,5452,6604,7766和8020的基础部分.
 
 **This page, which describes DNS basics, absolutely must be read from
 beginning to end in order for the rest of the documents (or DNS) to make
