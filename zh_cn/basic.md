@@ -10,11 +10,9 @@ Note: this page is part of the
 
 这篇文章大致对应RFCs 1034,1035,2181,2308,3596,4343,5452,6604,7766和8020的基础部分.
 
-**This page, which describes DNS basics, absolutely must be read from
-beginning to end in order for the rest of the documents (or DNS) to make
-sense.**
+**为了能够理解后续的文章， 建议从头到尾通读这篇描述DNS基础概念的文章。**
 
-# DNS Basics
+# DNS 基础
 
 DNS is mostly used to serve IP addresses and mailserver details, but it can
 contain arbitrary data.  DNS is all about names.  Every name can have data
